@@ -1,0 +1,3 @@
+kick
+throw
+punch
